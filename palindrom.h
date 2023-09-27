@@ -3,4 +3,4 @@
 #include <iostream>
 #include <string>
 
-void isPalindrome(std::string text);
+bool isPalindrome(std::string text);
